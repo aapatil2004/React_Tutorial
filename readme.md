@@ -1,1 +1,1 @@
-#Strat of React
+#Start of React
